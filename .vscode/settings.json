@@ -1,0 +1,6 @@
+{
+  "cmake.configureSettings": {
+    "COMPILE_IMGUI_DEMO": false,
+    "USE_GLAD": false,
+  }
+}
